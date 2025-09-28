@@ -35,7 +35,7 @@ body {
   padding: 0 16px;
 }
 
-/* Layout matches wireframe */
+/* Layout */
 .profile-grid {
   display: grid;
   grid-template-columns: 320px 1fr;
@@ -93,7 +93,7 @@ body {
 @media (max-width: 720px) { /*This section was GPT Prompted to help with image responsiveness*/
   .profile-grid { 
     grid-template-columns: 1fr; 
-    /* NEW: stack photo → details → button */
+    /* NEW: stack photo details button */
     grid-template-areas:
       "photo"
       "details"

@@ -40,10 +40,3 @@ button {
 button:hover {
   background: #005fcc;
 }
-
-@media (max-width: 600px) {
-  .profile-card {
-    max-width: 90%;
-    padding: 15px;
-  }
-}
