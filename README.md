@@ -1,5 +1,9 @@
 # Personal Profile Dashboard
 
+![Capture10](https://github.com/user-attachments/assets/8010ee6e-1186-4295-882c-7fee0e514b51)
+![Capture11](https://github.com/user-attachments/assets/c8d262a2-c6eb-46ec-95af-4b1620400b3f)
+
+
 A simple React + Vite app that fetches and displays random user profiles using the [Random User API](https://randomuser.me/).  
 
 ## Features
